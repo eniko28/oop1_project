@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  Finished generating code
+  All 24 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  oop_proj2.vcxproj -> C:\Users\arank\OneDrive\Desktop\OOP\oop_proj2\Release\oop_proj2.exe
